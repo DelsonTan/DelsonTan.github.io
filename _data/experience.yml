@@ -1,10 +1,10 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Rival Technologies
+  link: https://www.rivaltech.com/
+  job_title: Software Engineer
+  dates: September 2018 - present
   quote: >
-   Short description of the company (optional)
+   Voice, video and chat research solutions optimized for the mobile-first generation
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Full-stack web development. Worked with React, Redux, Graphql, Express, ElasticSearch, Kafka, Amazon Web Services.
