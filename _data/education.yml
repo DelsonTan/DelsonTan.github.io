@@ -3,7 +3,15 @@
   name: Lighthouse Labs
   dates: June 2019 - September 2019
   qualification: Manifesto of Software Craftsmanship
-  quote: >
-    Mentored, hands-on, accelerated learning.
+  # quote: >
+  #   Mentored, hands-on, accelerated learning.
   description: | # this will include new lines to allow paragraphs
-    Learned web development fundamentals over the course of 10 weeks.
+    Learned web development fundamentals over the course of 10 weeks. Became proficient with HTML, CSS and Javascript.
+- layout: left
+  name: University of British Columbia
+  dates: September 2011 - April 2018
+  qualification: Bachelor of Science
+  quote: >
+    # quoted text
+  description: | # this will include new lines to allow paragraphs
+    Biology major. Discovered my passion for programming through taking 6 computer science courses and 5 math courses. Developed a general understanding of biology, chemistry and physics.
