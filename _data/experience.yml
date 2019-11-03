@@ -8,3 +8,12 @@
    Voice, video and chat research solutions optimized for the mobile-first generation
   description: | # this will include new lines to allow paragraphs
     Full-stack web development. Worked with React, Redux, Graphql, Express, ElasticSearch, Kafka, Amazon Web Services.
+- layout: left
+  company: Lighthouse Labs
+  link: https://www.lighthouselabs.ca/
+  job_title: Project Evaluator
+  dates: September 2019 - present
+  quote: >
+   Mentored, hands-on, accelerated learning.
+  description: | # this will include new lines to allow paragraphs
+    Evaluated project submissions designed to teach students web development fundamentals (Javascript, CSS, HTML5) as well as popular web development frameworks such as React, Redux and Express.
