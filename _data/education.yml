@@ -1,17 +1,18 @@
-# Education Template
 - layout: left
   name: Lighthouse Labs
   dates: June 2019 - September 2019
   qualification: Manifesto of Software Craftsmanship
-  # quote: >
-  #   Mentored, hands-on, accelerated learning.
-  description: | # this will include new lines to allow paragraphs
+  description: |
     Learned web development fundamentals over the course of 10 weeks. Became proficient with HTML, CSS and Javascript.
 - layout: left
   name: University of British Columbia
   dates: September 2011 - April 2018
   qualification: Bachelor of Science
-  # quote: >
-  # quoted text
-  description: | # this will include new lines to allow paragraphs
+  description: |
     Biology major. Discovered my passion for programming through taking 6 computer science courses and 5 math courses. Developed a general understanding of biology, chemistry and physics.
+- layout: left
+  name: Heritage Woods Secondary School
+  dates: September 2008 - June 2011
+  qualification: Dogwood Diploma
+  description: |
+    Graduated achieving honors with distinction (4.0GPA).

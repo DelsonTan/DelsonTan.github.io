@@ -1,11 +1,8 @@
-# Experience template
 - layout: left
   company: Rival Technologies
   link: https://www.rivaltech.com/
   job_title: Software Engineer
   dates: September 2018 - present
-  # quote: >
-  # Voice, video and chat research solutions optimized for the mobile-first generation
   description: | # this will include new lines to allow paragraphs
     Full-stack web development. Worked with React, Redux, Graphql, Express, ElasticSearch, Kafka, Amazon Web Services.
 - layout: left
@@ -13,8 +10,6 @@
   link: https://www.lighthouselabs.ca/
   job_title: Project Evaluator
   dates: September 2019 - present
-  # quote: >
-  # Mentored, hands-on, accelerated learning.
   description: | # this will include new lines to allow paragraphs
     Evaluated project submissions designed to teach students web development fundamentals (Javascript, CSS, HTML5) as well as popular web development frameworks such as React, Redux and Express.
 - layout: left
@@ -22,6 +17,5 @@
   link: https://www.mindef.gov.sg/web/portal/mindef/home
   job_title: Corporal
   dates: December 2012 - December 2014
-  # quote: >
   description: | # this will include new lines to allow paragraphs
     Developed a keen sense of discipline and tenacity in high-stress situations.
