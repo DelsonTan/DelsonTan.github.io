@@ -67,7 +67,11 @@ h4 {
 
 p, ul {
   font-size: 1.6em;
-  text-align: center;
+  text-align: left;
+
+  @media screen and (max-width: 768px) {
+    text-align: center;
+  }
 }
 
 a i {
