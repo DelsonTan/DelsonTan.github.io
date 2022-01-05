@@ -2,27 +2,27 @@
   company: Rival Technologies
   link: https://www.rivaltech.com/
   job_title: Software Engineer
-  dates: September 2018 - present
+  dates: September 2018 - December 2019
   description: |
-    Full-stack web development. Worked with React, Redux, Graphql, Express, ElasticSearch, Kafka, Amazon Web Services.
+    Worked with React, Redux, Express, DynamoDB and Amazon Web Services. Worked closely with upper management, DevOps, QA, UX and other engineering teams to maintain and improve a market research web application.
 - layout: left
   company: Lighthouse Labs
   link: https://www.lighthouselabs.ca/
   job_title: Project Evaluator
-  dates: September 2019 - present
+  dates: September 2019 - April 2020
   description: |
     Evaluated project submissions designed to teach students web development fundamentals (Javascript, CSS, HTML5) as well as popular web development frameworks such as React, Redux and Express.
-- layout: left
-  company: Student Works Painting
-  link: https://www.studentworks.com/
-  job_title: Business Owner Operator
-  dates: March 2016 - September 2016
-  description: |
-    Learned the basics of how to run a business (recruitment, marketing/sales, production). Worked through the summer around the clock and recieved positive reviews for successfully painting dozens of houses. 
-- layout: left
-  company: Singapore Armed Forces
-  link: https://www.mindef.gov.sg/web/portal/mindef/home
-  job_title: Corporal
-  dates: December 2012 - December 2014
-  description: |
-    Developed a keen sense of discipline and tenacity in high-stress situations. Took many opportunities to push past physical and mental limits and lead others through challenging exercises.
+# - layout: left
+#   company: Student Works Painting
+#   link: https://www.studentworks.com/
+#   job_title: Business Owner Operator
+#   dates: March 2016 - September 2016
+#   description: |
+#     Learned the basics of how to run a business (recruitment, marketing/sales, production). Worked through the summer around the clock and recieved positive reviews for successfully painting dozens of houses. 
+# - layout: left
+#   company: Singapore Armed Forces
+#   link: https://www.mindef.gov.sg/web/portal/mindef/home
+#   job_title: Corporal
+#   dates: December 2012 - December 2014
+#   description: |
+#     Developed a keen sense of discipline and tenacity in high-stress situations. Took many opportunities to push past physical and mental limits and lead others through challenging exercises.

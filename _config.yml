@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Delson Tan
-title: Full Stack Web Developer
+title: Software Developer
 email: delsonwtan@gmail.com
 phone: 604-417-6790
 # leaving commented out to keep track of options
@@ -28,7 +28,6 @@ linkedin_username: delson-tan-759458169
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Software Engineer with a demonstrated history of working in the market research industry. Skilled in Full-Stack Development. Strong engineering professional graduated from Lighthouse Labs. Takes an avid interest in anything programming or video game related.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)

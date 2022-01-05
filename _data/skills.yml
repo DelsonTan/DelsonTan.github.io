@@ -1,0 +1,24 @@
+- layout: list
+  name: Java
+- layout: list
+  name: HTML5
+- layout: list
+  name: CSS
+- layout: list
+  name: Javascript
+- layout: list
+  name: Node.js
+- layout: list
+  name: React
+- layout: list
+  name: Redux
+- layout: list
+  name: SQL
+- layout: list
+  name: Git
+- layout: list
+  name: Agile Development
+- layout: list
+  name: Object Oriented Programming
+- layout: list
+  name: Microsoft Office Suite

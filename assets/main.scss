@@ -3,3 +3,11 @@
 ---
 
 @import 'modern-resume-theme';
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.skills-header {
+    margin-bottom: 0;
+}
