@@ -47,6 +47,7 @@
               <i class="fa fa-linkedin" title="Linkedin link"></i>
             </a>
           </li>
+          
         {%- endif -%}
         {%- if site.xing_username -%}
           <li>
@@ -85,6 +86,16 @@
         {%- endif -%}
       </ul>
 
+      {%- if site.linkedin_username -%}
+        <p class="social-links">
+          LinkedIn: /{{ site.linkedin_username| cgi_escape | escape }}
+        </p>
+      {%- endif -%}
+      {%- if site.github_username -%}
+        <p class="social-links">
+          Github: /{{ site.github_username| cgi_escape | escape }}
+        </p>
+      {%- endif -%}
       {%- if site.email -%}
         <p>
           Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>

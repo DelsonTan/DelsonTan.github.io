@@ -226,3 +226,10 @@ p.quote {
 .text-align-center {
   text-align: center;
 }
+.social-links {
+  display: none;
+
+  @media print {
+    display: block;
+  }
+}

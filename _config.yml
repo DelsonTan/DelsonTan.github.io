@@ -26,8 +26,8 @@ linkedin_username: delson-tan-759458169
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/headshot.jpg
-about_content: | # this will include new lines to allow paragraphs
+# about_profile_image: images/headshot.jpg
+# about_content: | # this will include new lines to allow paragraphs
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
