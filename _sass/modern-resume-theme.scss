@@ -209,11 +209,11 @@ p.quote {
   padding: 1em 2.5em;
   text-align: center;
 
-  @media print {
-    text-align: left;
-    padding: 0em 1em;
-    margin-top: 1em;
-  }
+  // @media print {
+  //   text-align: left;
+  //   padding: 0em 1em;
+  //   margin-top: 1em;
+  // }
 }
 
 .grid {
