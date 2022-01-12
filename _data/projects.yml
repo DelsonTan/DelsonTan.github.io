@@ -1,5 +1,5 @@
 # Project template
-- layout: top-middle
+- layout: left
   name: Hordeland
   link: http://hordeland.herokuapp.com/
   github: /DelsonTan/Hordeland
@@ -8,7 +8,7 @@
   description: | # this will include new lines to allow paragraphs
     Worked with a partner to develop a king-of-the-hill style web game where all players are put in the same game instance and pitted against each other and against non-player opponents.
 # Project template
-- layout: top-middle
+- layout: left
   name: Soliclarity
   link: https://soliclarity-dbb49.web.app/
   github: /DelsonTan/Soliclarity

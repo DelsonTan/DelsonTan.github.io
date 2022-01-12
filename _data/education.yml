@@ -1,11 +1,11 @@
 - layout: left
-  name: British Columbia Institute of Technology
+  company: British Columbia Institute of Technology
   dates: September 2021 - January 2024
   qualification: Computer Systems Technology Diploma
   description: |
     91% GPA. Learning computer systems theory, with hands-on practical experience in software development.
 - layout: left
-  name: Lighthouse Labs
+  company: Lighthouse Labs
   dates: June 2018 - September 2018
   qualification: Manifesto of Software Craftsmanship
   description: |
