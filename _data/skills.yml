@@ -1,24 +1,12 @@
-- layout: list
-  name: Java
-- layout: list
-  name: HTML5
-- layout: list
-  name: CSS
-- layout: list
-  name: Javascript
-- layout: list
-  name: Node.js
-- layout: list
-  name: React
-- layout: list
-  name: Redux
-- layout: list
-  name: SQL
-- layout: list
-  name: Git
-- layout: list
-  name: Agile Development
-- layout: list
-  name: Object Oriented Programming
-- layout: list
-  name: Unit and Integration Testing
+- layout: left
+  name: "Languages:"
+  description: Javascript, HTML5, CSS, Java
+- layout: left
+  name: "Tools:"
+  description: Node.js, Express, React, Redux, ChartJS, Mocha, Firebase
+- layout: left
+  name: "Database:"
+  description: MySQL, PostgreSQL, DynamoDB, Firestore
+- layout: left
+  name: "Workflow:"
+  description: JIRA, Git, AGILE development, Object Oriented Programming, Unit and Integration Testing

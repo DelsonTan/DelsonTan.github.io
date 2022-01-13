@@ -87,27 +87,27 @@
       </ul>
 
       {%- if site.linkedin_username -%}
-        <p class="social-links">
+        <p class="contact-info social-links">
           LinkedIn: /{{ site.linkedin_username| cgi_escape | escape }}
         </p>
       {%- endif -%}
       {%- if site.github_username -%}
-        <p class="social-links">
+        <p class="contact-info social-links">
           Github: /{{ site.github_username| cgi_escape | escape }}
         </p>
       {%- endif -%}
       {%- if site.email -%}
-        <p>
+        <p class="contact-info">
           Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
         </p>
       {%- endif -%}
       {%- if site.phone -%}
-        <p>
+        <p class="contact-info">
           Phone: {{ site.phone | escape }}
         </p>
       {%- endif -%}
       {%- if site.website -%}
-        <p>
+        <p class="contact-info">
           Web: {% include a.html href=site.website %}{{ site.website | escape }}</a>
         </p>
       {%- endif -%}

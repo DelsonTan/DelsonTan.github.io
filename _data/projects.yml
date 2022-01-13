@@ -3,17 +3,21 @@
   name: Hordeland
   link: http://hordeland.herokuapp.com/
   github: /DelsonTan/Hordeland
-  quote: >
-    Top-down 2D Multiplayer Web Game
   description: | # this will include new lines to allow paragraphs
-    Worked with a partner to develop a king-of-the-hill style web game where all players are put in the same game instance and pitted against each other and against non-player opponents.
+    • Technologies used: HTML, CSS, Javascript, Node.js, Express, Socket.IO, React.
+
+    • Worked with a partner to develop a top-down 2D multiplayer web game where all players are put in the same game instance and pitted against each other and against non-player opponents.
+        
+    • Personal responsibilities mainly consisted of developing the game logic and user interface of the game, and was responsible for a majority of the overall game design.
 # Project template
 - layout: left
   name: Soliclarity
   link: https://soliclarity-dbb49.web.app/
   github: /DelsonTan/Soliclarity
-  quote: >
-    Student Productivity App
   description: | # this will include new lines to allow paragraphs
-    Worked in a group of three to develop a productivity app that allows students to collaborate on maintaining updated information on academic deadlines together, then keeps the user informed of events sorted by urgency.
+    • Technologies used: HTML, CSS, Javascript, Bootstrap, Firebase.
+    
+    • Worked in a group of three to develop a student productivity app that allows students to collaborate on maintaining updated information on academic deadlines together, then keeps the user informed of events sorted by urgency. 
+    
+    • Primary responsibilities included project management and developing the business logic of the application including communication with firestore.
 

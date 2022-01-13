@@ -99,10 +99,6 @@ ul.icons a {
   }
 }
 
-.projects-container p {
-  text-align: center;
-}
-
 .layout {
   margin-top: 3em;
 
@@ -145,10 +141,7 @@ ul.icons a {
     h4 {
       margin-bottom: 0.1em;
       font-weight: 500;
-
-      @media print {
-        margin-bottom: 0.2em;
-      }
+      font-size: 20px;
 
       a {
         font-weight: 500;
@@ -215,20 +208,19 @@ p.quote {
   // }
 }
 
-.grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-}
-.skills-header {
-    margin-bottom: 0;
-}
-.text-align-center {
-  text-align: center;
-}
 .social-links {
   display: none;
 
   @media print {
     display: block;
   }
+}
+
+.contact-info {
+  @media print {
+    line-height: 1;
+  }
+}
+.skills-container > .layout {
+  margin-top: 0;
 }
