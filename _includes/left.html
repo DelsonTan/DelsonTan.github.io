@@ -12,11 +12,11 @@
     {%- endif -%}
     {%- if include.item.qualification -%}<h4>{{ include.item.qualification }}</h4>{%- endif -%}
     {%- if include.item.job_title -%}<h4>{{ include.item.job_title }}</h4>{%- endif -%}
+    {%- if include.item.company -%}<p><b>{{ include.item.company }}</b></p>{%- endif -%}
+    {%- if include.item.dates -%}<p>{{ include.item.dates }}</p>{%- endif -%}
     {%- if include.item.link -%}
       {% include a.html href=include.item.link class="link" %}{{ include.item.link }}</a>
     {%- endif -%}
-    {%- if include.item.company -%}<p><b>{{ include.item.company }}</b></p>{%- endif -%}
-    {%- if include.item.dates -%}<p>{{ include.item.dates }}</p>{%- endif -%}
     {% for job in include.item.jobs %}
       <p><b>{{ job.title }}</b></p>
       <p>{{ job.dates }}</p>
