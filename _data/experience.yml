@@ -1,4 +1,12 @@
 - layout: left
+  company: Lighthouse Labs
+  job_title: Project Evaluator
+  dates: September 2019 - April 2020
+  description: |
+    • Evaluated project submissions designed to teach students web development fundamentals (Javascript, CSS, HTML5) as well as popular web development frameworks such as React, Redux and Express.
+
+    • Invested in student success and provided thorough feedback and supporting resources during evaluations.
+- layout: left
   company: Rival Technologies
   job_title: Software Engineer
   dates: September 2018 - December 2019
@@ -8,14 +16,6 @@
     • Worked flexibly, learning the basics of many technologies such Amazon Web Services, Kafka, ElasticSearch, Graphql and CircleCI along the way, establishing a reputation for adaptability and persistence. 
     
     • Coordinated closely with upper management, DevOps, QA, UX and other engineering teams to maintain and improve a market research web application using the AGILE process.
-- layout: left
-  company: Lighthouse Labs
-  job_title: Project Evaluator
-  dates: September 2019 - April 2020
-  description: |
-    • Evaluated project submissions designed to teach students web development fundamentals (Javascript, CSS, HTML5) as well as popular web development frameworks such as React, Redux and Express.
-
-    • Invested in student success and provided thorough feedback and supporting resources during evaluations.
 # - layout: left
 #   company: Student Works Painting
 #   link: https://www.studentworks.com/
