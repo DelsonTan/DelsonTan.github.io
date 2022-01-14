@@ -2,16 +2,16 @@
 - layout: left
   name: Soliclarity
   dates: November 2021
-  link: https://soliclarity-dbb49.web.app/
+  link: https://soliclarity-dbb49.web.app
   github: /DelsonTan/Soliclarity
   description_list:
-    - text: Worked in a group of three to develop a student productivity app that allows users to collaborate to maintain updated information on academic deadlines, and keep them informed of events sorted by urgency. 
+    - text: Worked in a group of three to develop a student productivity app that allows users to collaborate to maintain up-to-date data on academic deadlines, and keeps them informed of events sorted by urgency. 
     - text: Primary responsibilities included project management and developing the business logic of the application including communication with firestore.
     - text: "Technologies used: HTML, CSS, Javascript, Bootstrap, Firebase."
 - layout: left
   name: Hordeland
   dates: August 2018
-  link: http://hordeland.herokuapp.com/
+  link: http://hordeland.herokuapp.com
   github: /DelsonTan/Hordeland
   description_list:
     - text: Worked with a partner to develop a top-down 2D multiplayer web game where all players are put in the same game instance and pitted against each other and against non-player opponents.

@@ -3,19 +3,17 @@
     {%- if include.item.name -%}
       <h4>
         {{ include.item.name }}
-        {%- if include.item.github -%}
-        <a class="no-print" href="https://github.com/{{ include.item.github }}" target="_blank">
-          <i class="fa fa-github" title="{{ include.item.name }} Github link"></i>
-        </a>
-        {%- endif -%}
       </h4>
     {%- endif -%}
     {%- if include.item.qualification -%}<h4>{{ include.item.qualification }}</h4>{%- endif -%}
     {%- if include.item.job_title -%}<h4>{{ include.item.job_title }}</h4>{%- endif -%}
     {%- if include.item.company -%}<p>{{ include.item.company }}</p>{%- endif -%}
     {%- if include.item.dates -%}<p>{{ include.item.dates }}</p>{%- endif -%}
+    {%- if include.item.github -%}
+    <a href="https://github.com/{{ include.item.github }}" class="link"><i class="fa fa-github"></i> <span class="print-only">https://github.com</span>{{ include.item.github }}</a><br>
+    {%- endif -%}
     {%- if include.item.link -%}
-      {% include a.html href=include.item.link class="link" %}{{ include.item.link }}</a>
+    <a href="{{include.item.link }}" class="link"><i class="fa fa-link"></i> {{include.item.link}}</a>
     {%- endif -%}
     {% for job in include.item.jobs %}
       <p><b>{{ job.title }}</b></p>

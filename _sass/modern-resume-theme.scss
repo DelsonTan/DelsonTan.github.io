@@ -93,7 +93,7 @@ ul.icons a {
   }
 }
 
-.projects-container, .experience-container, .education-container {
+.skills-container, .projects-container, .experience-container, .education-container {
   h3 {
     margin-bottom: 0;
   }
@@ -230,6 +230,9 @@ table, tr {
 .contact-info td {
   padding: 0;
 }
-.skills-container > .layout {
+.skills-container > .layout:not(:nth-child(2)) {
   margin-top: 0;
+}
+.fa {
+  vertical-align: middle;
 }
