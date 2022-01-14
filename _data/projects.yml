@@ -4,20 +4,16 @@
   dates: November 2021
   link: https://soliclarity-dbb49.web.app/
   github: /DelsonTan/Soliclarity
-  description: | # this will include new lines to allow paragraphs
-    • Worked in a group of three to develop a student productivity app that allows users to collaborate to maintain updated information on academic deadlines, and keep them informed of events sorted by urgency. 
-    
-    • Primary responsibilities included project management and developing the business logic of the application including communication with firestore.
-
-    • Technologies used: HTML, CSS, Javascript, Bootstrap, Firebase.
+  description_list:
+    - text: Worked in a group of three to develop a student productivity app that allows users to collaborate to maintain updated information on academic deadlines, and keep them informed of events sorted by urgency. 
+    - text: Primary responsibilities included project management and developing the business logic of the application including communication with firestore.
+    - text: "Technologies used: HTML, CSS, Javascript, Bootstrap, Firebase."
 - layout: left
   name: Hordeland
   dates: August 2018
   link: http://hordeland.herokuapp.com/
   github: /DelsonTan/Hordeland
-  description: | # this will include new lines to allow paragraphs
-    • Worked with a partner to develop a top-down 2D multiplayer web game where all players are put in the same game instance and pitted against each other and against non-player opponents.
-        
-    • Personal responsibilities mainly consisted of developing the game logic and user interface of the game, and was responsible for a majority of the overall game design.
-    
-    • Technologies used: HTML, CSS, Javascript, Node.js, Express, Socket.IO, React.
+  description_list:
+    - text: Worked with a partner to develop a top-down 2D multiplayer web game where all players are put in the same game instance and pitted against each other and against non-player opponents.
+    - text: Personal responsibilities mainly consisted of developing the game logic and user interface of the game, and was responsible for a majority of the overall game design.
+    - text: "Technologies used: HTML, CSS, Javascript, Node.js, Express, Socket.IO, React."

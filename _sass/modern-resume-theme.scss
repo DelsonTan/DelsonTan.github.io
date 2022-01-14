@@ -212,14 +212,23 @@ p.quote {
   display: none;
 
   @media print {
-    display: block;
+    display: table-row;
   }
 }
-
+table {
+  table-layout: auto;
+}
+table, tr {
+  border: hidden;
+}
 .contact-info {
+  font-size: 1.6em;
   @media print {
     line-height: 1;
   }
+}
+.contact-info td {
+  padding: 0;
 }
 .skills-container > .layout {
   margin-top: 0;
