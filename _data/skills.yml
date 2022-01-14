@@ -1,6 +1,6 @@
 - layout: left
   name: "Languages:"
-  description: Javascript, HTML5, CSS, Java
+  description: Javascript, HTML5, CSS, Java, SQL
 - layout: left
   name: "Tools:"
   description: Node.js, Express, React, Redux, ChartJS, Mocha, Firebase
