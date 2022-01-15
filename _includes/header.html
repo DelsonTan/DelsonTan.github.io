@@ -90,25 +90,25 @@
         {%- if site.github_username -%}
         <tr class="contact-info print-only">
           <td>/{{ site.github_username| cgi_escape | escape }}</td>
-          <td><i class="fa fa-github"></i></td>
+          <td class="contact-icon"><i class="fa fa-github"></i></td>
         </tr>
         {%- endif -%}
         {%- if site.linkedin_username -%}
         <tr class="contact-info print-only">
           <td>/{{ site.linkedin_username| cgi_escape | escape }}</td>
-          <td><i class="fa fa-linkedin-square"></i></td>
+          <td class="contact-icon"><i class="fa fa-linkedin-square"></i></td>
         </tr>
         {%- endif -%}
         {%- if site.phone -%}
         <tr class="contact-info">
           <td>{{ site.phone | escape }}</td>
-          <td><i class="fa fa-phone"></i></td>
+          <td class="contact-icon"><i class="fa fa-phone"></i></td>
         </tr>
         {%- endif -%}
         {%- if site.email -%}
         <tr class="contact-info">
           <td><a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a></td>
-          <td><i class="fa fa-envelope-o"></i></td>
+          <td class="contact-icon"><i class="fa fa-envelope-o"></i></td>
         </tr>
         {%- endif -%}
         {%- if site.website -%}
