@@ -10,10 +10,10 @@
     {%- if include.item.company -%}<p>{{ include.item.company }}</p>{%- endif -%}
     {%- if include.item.dates -%}<p>{{ include.item.dates }}</p>{%- endif -%}
     {%- if include.item.github -%}
-    <a href="https://github.com/{{ include.item.github }}" class="link"><i class="fa fa-github"></i> <span class="print-only">https://github.com</span>{{ include.item.github }}</a><br>
+    <a href="https://github.com/{{ include.item.github }}" class="link"><i class="fa fa-github"></i> <span class="print-only">https://github.com{{ include.item.github }}</span></a><br class="print-only">
     {%- endif -%}
     {%- if include.item.link -%}
-    <a href="{{include.item.link }}" class="link"><i class="fa fa-link"></i> {{include.item.link}}</a>
+    <a href="{{include.item.link }}" class="link"><i class="fa fa-link"></i> <span class="print-only">{{include.item.link}}</span></a>
     {%- endif -%}
     {% for job in include.item.jobs %}
       <p><b>{{ job.title }}</b></p>
