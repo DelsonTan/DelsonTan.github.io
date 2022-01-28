@@ -49,9 +49,9 @@ h3 {
   font-weight: 300;
   font-size: 3em;
   text-align: center;
-  border-bottom: dashed 2px #CCCCCC;
-  padding-bottom: 10px;
-  margin-bottom:40px;
+  border-top: groove 2px #CCCCCC;
+  padding-top: 20px;
+  margin-bottom: 0;
 
   @media print {
     padding: 10px 0;
